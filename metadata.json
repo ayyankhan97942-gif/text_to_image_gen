@@ -1,0 +1,5 @@
+{
+  "name": "Neo-Gen Image Studio",
+  "description": "A high-performance text-to-image generator powered by Stable Diffusion and Hugging Face, featuring a bold Neo-Brutalist design.",
+  "requestFramePermissions": []
+}
